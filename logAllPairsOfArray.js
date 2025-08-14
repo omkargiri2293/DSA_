@@ -10,3 +10,6 @@ function logAllPairsOfArray(array) {
 }
 
 logAllPairsOfArray(boxes)
+
+// Big O = O(n^2) because we have a nested loop where both loops iterate through the array.
+//quadratic time complexity 
